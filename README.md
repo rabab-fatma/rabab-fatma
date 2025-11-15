@@ -84,13 +84,13 @@ I care about clean pipelines, clear documentation, and making it easy for collab
 
 ---
 
-## 💼 Experience (short version)
+## 💼 Experience
 
 - **Research Assistant – University of Chicago, Dept. of OB/GYN**  
   Epitranscriptomic analysis of uterine fibroid samples using BID-seq; developed Snakemake pipelines for high-resolution Ψ detection and integrated RNA-seq with downstream analyses.
 
 - **Graduate Research Assistant – Brown Lab, Georgia Tech**  
-  Large-scale comparative genomics & ML for E. coli and other ESKAPEE pathogens; migrated workflows into robust Nextflow pipelines for scalable pan-genomic analysis.
+  Large-scale comparative genomics & ML for _E. coli_ and other ESKAPEE pathogens; migrated workflows into robust Nextflow pipelines for scalable pan-genomic analysis.
 
 - **Research Intern – DBT-CMI, Hyderabad**  
   Curated and analyzed microbial genomics datasets and 16S rRNA data from inland water samples to profile environmental microbial communities.
